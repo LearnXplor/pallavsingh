@@ -15,9 +15,9 @@ const AboutDetails = () => {
             Architect of Frontend Development
           </h2>
           <p className="font-light  text-xs sm:text-sm md:text-base   ">
-            Hello, I'm Pallav Singh, and I'm a full time software developer and part time content creator. With 3+ years of experience in both fields, I have a unique perspective on how technology and content can work together to achieve business goals.
+            Hello, I&apos;m Pallav Singh, and I&apos;m a full time software developer and part time content creator. With 3+ years of experience in both fields, I have a unique perspective on how technology and content can work together to achieve business goals.
 
-            As a software developer, I specialize in end-to-end application development, and I enjoy tackling complex problems and coming up with elegant solutions. I'm proficient in Frontend Development and I'm always looking for ways to improve my skills and stay up-to-date with the latest technologies.
+            As a software developer, I specialize in end-to-end application development, and I enjoy tackling complex problems and coming up with elegant solutions. I&apos;m proficient in Frontend Development and I&apos;m always looking for ways to improve my skills and stay up-to-date with the latest technologies.
           </p>
         </ItemLayout>
 
